@@ -32,7 +32,7 @@ function App() {
     };
     return (
         <div className="App">
-            <h1>News Searching App</h1>
+            <h1>News App</h1>
             <form onSubmit={onSubmit} className="search-form">
                 <input
                     type="text"
